@@ -90,8 +90,7 @@ For guidelines, refer to our Contribution Guide.
 
 For support and inquiries:
 
-- **Email**: [support@g3x.network](mailto:support@g3x.network)
+- **Email**: [support@g3x.network](mailto:support@game3xecution.xyz)
 - **Community Channels**:
-  - [Discord](https://discord.gg/g3x)
-  - [Twitter](https://twitter.com/g3x_network)
-  - [Telegram](https://t.me/g3x_network)
+  - [Twitter](https://x.com/game3xecution)
+  - [Telegram](https://t.me/game3xecution)
